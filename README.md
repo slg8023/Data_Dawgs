@@ -3,3 +3,5 @@ According to the World Health Organization, over 30% of college students screen 
 
 # Project
 The capstone group Data Dawgs worked with their sponsor, SPARK - Institute for Advanced Consciousness (Nicco Reggent and Matthew Lee) to create a survey of 67 questions to determine indiviudal experiences with Awe, mindfullness, chills, and additional physiological response to mental stimuli. 
+
+The team deployed the survey through April 2026 and received 89 responses. This data was then analyzed for any patterns and trends. Group memebers were sure to compelte data pre-processing to remove all entries that were not consistent and reliable. 
